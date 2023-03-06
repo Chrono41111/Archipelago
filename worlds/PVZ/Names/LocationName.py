@@ -1,4 +1,0 @@
-# Stage Definitions
-
-# Day
-day 
